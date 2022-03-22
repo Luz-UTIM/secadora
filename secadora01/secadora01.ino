@@ -1,3 +1,5 @@
+//Maria de la Luz Ortega Barrera
+
 #include <HX711.h>
 #include <max6675.h>
 #include <LiquidCrystal_I2C.h>
