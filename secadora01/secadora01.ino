@@ -1,4 +1,4 @@
-//Maria de la Luz Ortega Barrera
+//Maria de la Luz Ortega Barrera 22marzo
 
 #include <HX711.h>
 #include <max6675.h>
